@@ -1,0 +1,17 @@
+/*
+ * @Descripttion:  app css
+ * @version: 
+ * @@Company: DCIT-SH
+ * @Author: Oneself
+ * @Date: 2020-12-01 12:06:59
+ * @LastEditors: Oneself
+ * @LastEditTime: 2020-12-01 12:09:52
+ * @Statu: TODO: 
+ */
+
+ /*  appcss */
+.judge{
+    width: 250px;
+    height: 250px;
+    background-color: #eee;
+}
